@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[maz:home|Door43 (maz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-maz|d43-maz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-maz/archive/master.zip|d43-maz.zip]]
+
+**Recent Changes**
+{{changes>ns = maz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/maz|Ethnologue data]]
+
